@@ -69,3 +69,19 @@ A pesar del corto tiempo de desarrollo, el motor del juego incluye:
 ├── style.css       # Estilos y renderizado pixel-perfect
 ├── game.js         # Lógica del juego, física y renderizado
 └── assets/         # (Imágenes .png de los sprites)
+```
+
+## 🚀 Instalación Local
+
+```Bash
+
+git clone [https://github.com/tu-usuario/gamedev_challenge.git](https://github.com/tu-usuario/gamedev_challenge.git)
+cd gamedev_challenge
+```
+Simplemente abre index.html en tu navegador (Chrome/Firefox/Edge)
+
+## 🎂 Dedicatoria
+Hecho con ❤️ para Victoria Barthelemy.
+¡Feliz Cumpleaños! 🥳
+
+Vibe-codeado por Augusto Barthelemy.
